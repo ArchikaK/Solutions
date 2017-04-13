@@ -7,3 +7,4 @@ https://r-how.com/packages/github_repo
 http://www.itgo.me/a/x4861371976494168721/how-to-get-leaflet-for-r-use-100-of-shiny-dashboard-height
 http://shinyapps.org/apps/RGraphCompendium/
 https://ramnathv.github.io/rChartsShiny/
+http://journocode.com/2016/04/04/r-first-web-application-shiny/
