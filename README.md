@@ -10,3 +10,4 @@ https://ramnathv.github.io/rChartsShiny/
 http://journocode.com/2016/04/04/r-first-web-application-shiny/
 http://ggplot2.tidyverse.org/reference/geom_bar.html
 http://www.treselle.com/blog/crime-analysis-with-shiny-r/
+http://patilv.com/tags/
